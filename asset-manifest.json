@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6bb17f1.css",
+    "main.js": "/static/js/main.20239276.js",
+    "static/js/453.d22c673f.chunk.js": "/static/js/453.d22c673f.chunk.js",
+    "static/media/kokeeti.webm": "/static/media/kokeeti.3986f80ccfe183d32e0f.webm",
+    "static/media/project3.png": "/static/media/project3.c9ec116c4bd22b69233a.png",
+    "static/media/Tempimg.gif": "/static/media/Tempimg.cef96efd170f75ca57d4.gif",
+    "static/media/About.png": "/static/media/About.09c3a16efddaa2dcf2f2.png",
+    "static/media/social-whts.png": "/static/media/social-whts.5a7254ffab382b909a55.png",
+    "static/media/social-twi.png": "/static/media/social-twi.8f7866adc78abcf32a62.png",
+    "static/media/social-link.png": "/static/media/social-link.eded47a4247b7838a290.png",
+    "index.html": "/index.html",
+    "static/media/icon7.svg": "/static/media/icon7.98d48248fe0580dae9655eb247c2940f.svg",
+    "static/media/icon2.svg": "/static/media/icon2.36e93aa9c4bb60ac3c2401896a2b6337.svg",
+    "static/media/icon1.svg": "/static/media/icon1.8e320cd74ecbf68b22d192830c9c36c9.svg",
+    "static/media/icon6.svg": "/static/media/icon6.f06721a5ec9bd6916a2e7beb862d06be.svg",
+    "main.c6bb17f1.css.map": "/static/css/main.c6bb17f1.css.map",
+    "main.20239276.js.map": "/static/js/main.20239276.js.map",
+    "453.d22c673f.chunk.js.map": "/static/js/453.d22c673f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6bb17f1.css",
+    "static/js/main.20239276.js"
+  ]
+}
